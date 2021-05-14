@@ -18,3 +18,7 @@ The code takes in points in a .csv file. Train files can be found [here](../data
 Note that the `--plot` argument is optional and facilitates visual observation of the reconstructed signal. The `basic_2.csv` can be any of the files found [here](../datafiles/train_data).
 
 The program then outputs the total reconstruction error across all segments in the file, e.g. `6.467081701001855e-27`.
+
+## Author
+
+Armand Cismaru. The instructions and train files are property of the University of Bristol. 
